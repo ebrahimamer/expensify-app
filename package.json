@@ -2,7 +2,7 @@
   "name": "expensify",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Andrew Mead",
+  "author": "Ebrahim Mansour",
   "license": "MIT",
   "scripts": {
     "build:dev": "webpack",
@@ -27,6 +27,7 @@
     "moment": "^2.18.1",
     "node-sass": "4.5.3",
     "normalize.css": "7.0.0",
+    "numeral": "2.0.6",
     "raf": "^3.3.2",
     "react": "15.6.1",
     "react-addons-shallow-compare": "^15.6.0",
@@ -45,7 +46,7 @@
   "devDependencies": {
     "enzyme": "^3.0.0",
     "enzyme-adapter-react-16": "^1.0.0",
-    "jest": "^20.0.4",
+    "jest": "^25.1.0",
     "react-test-renderer": "^16.0.0",
     "webpack-dev-server": "2.5.1"
   }
